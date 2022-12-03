@@ -1,0 +1,15 @@
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/bin/Debug/net6.0/prigram_1
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/bin/Debug/net6.0/prigram_1.deps.json
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/bin/Debug/net6.0/prigram_1.runtimeconfig.json
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/bin/Debug/net6.0/prigram_1.dll
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/bin/Debug/net6.0/ref/prigram_1.dll
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/bin/Debug/net6.0/prigram_1.pdb
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/obj/Debug/net6.0/prigram_1.csproj.AssemblyReference.cache
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/obj/Debug/net6.0/prigram_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/obj/Debug/net6.0/prigram_1.AssemblyInfoInputs.cache
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/obj/Debug/net6.0/prigram_1.AssemblyInfo.cs
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/obj/Debug/net6.0/prigram_1.csproj.CoreCompileInputs.cache
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/obj/Debug/net6.0/prigram_1.dll
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/obj/Debug/net6.0/ref/prigram_1.dll
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/obj/Debug/net6.0/prigram_1.pdb
+/home/maxim/Рабочий стол/edu/C#/seminar_C#_2/prigram_1/obj/Debug/net6.0/prigram_1.genruntimeconfig.cache

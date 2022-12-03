@@ -1,0 +1,15 @@
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/bin/Debug/net6.0/program_4
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/bin/Debug/net6.0/program_4.deps.json
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/bin/Debug/net6.0/program_4.runtimeconfig.json
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/bin/Debug/net6.0/program_4.dll
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/bin/Debug/net6.0/ref/program_4.dll
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/bin/Debug/net6.0/program_4.pdb
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/obj/Debug/net6.0/program_4.csproj.AssemblyReference.cache
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/obj/Debug/net6.0/program_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/obj/Debug/net6.0/program_4.AssemblyInfoInputs.cache
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/obj/Debug/net6.0/program_4.AssemblyInfo.cs
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/obj/Debug/net6.0/program_4.csproj.CoreCompileInputs.cache
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/obj/Debug/net6.0/program_4.dll
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/obj/Debug/net6.0/ref/program_4.dll
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/obj/Debug/net6.0/program_4.pdb
+/home/maxim/Рабочий стол/edu/C#/SeminarC#/seminar_C#_2/program_4/obj/Debug/net6.0/program_4.genruntimeconfig.cache
